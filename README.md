@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sulav Poudel
 
-<!--
-**603codes/603codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌟 I'm a 16-year-old aspiring developer from Nepal
+- 💻 Currently working with HTML, CSS, and JavaScript
+- 🌱 Learning and growing in the world of web development
 
-Here are some ideas to get you started:
+## Skills
+- HTML5
+- CSS3 
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- 📸 Instagram: [@iota603](https://instagram.com/iota603)
+- 👥 Facebook: [Suulav](https://facebook.com/Suulav)
+
+## My Journey
+I'm passionate about coding and web development. At 16, I'm just getting started on my programming journey and excited to learn more! Feel free to connect with me on social media.
+
+---
+⭐️ From [Sulav Poudel](https://github.com/YourGitHubUsername)
+

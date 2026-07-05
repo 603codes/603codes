@@ -1,6 +1,6 @@
 # Hi, I'm Sulav Poudel 👋
 
-I’m a student from Kathmandu, Nepal, currently transitioning from +2 at St. Xavier’s College into undergraduate study.
+I’m a student from Kathmandu, Nepal.
 
 I enjoy building practical software, especially web apps and personal tools that solve real everyday problems. I learn by building, shipping, debugging, joining hackathons, and improving projects through iteration.
 
